@@ -6,7 +6,7 @@ This repository contains the official authors implementation associated with the
 
 ![scene1-after](https://github.com/benyoon1/gaussian-splat-hackathon/assets/86860367/cb4eb17b-5939-4bc4-b83b-727201fb3e93)
 
-Scene 1 Ferris Wheel: https://share.arcware.cloud/v1/share-a17aa7a5-ad0f-4897-aff2-94e4c4e31fc8
+Scene 1 Ferris Wheel: https://share.arcware.cloud/v1/share-a17aa7a5-ad0f-4897-aff2-94e4c4e31fc8    <br />
 Scene 2 Old Port:     https://share.arcware.cloud/v1/share-c31d620b-3629-42b2-ad0f-72131d153891
 
 ## Workflow
